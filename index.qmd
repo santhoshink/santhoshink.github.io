@@ -1,8 +1,21 @@
 ---
-title: "santhoshink.github.io"
+title: "Santhoshi N Krishnan"
+image: IMG_0883[62].jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/santhoshink/
+    - text: GitHub
+      href: https://github.com/santhoshink
+    - text: Email
+      href: mailto:sankris@umich.edu
 ---
 
-This is a Quarto website.
+I am currently a Postdoctoral Research Fellow in the department of Computational Medicine and Bioinformatics at the University of Michigan.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
