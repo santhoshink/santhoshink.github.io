@@ -1,17 +1,45 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Publications and Presentations",
+    "section": "",
+    "text": "Omar A. Saldarriaga, Timothy G. Wanninger, Esteban Arroyave, Joseph Gosnell, Santhoshi Krishnan, Morgan Oneka, Daniel Bao, Daniel E. Millian, Michael L. Kueht, Akshata Moghe, and et al. Heterogeneity in intrahepatic macrophage populations and druggable target expression in patients with steatotic liver disease-related fibrosis. JHEP Reports, volume 6, page 100958, Jan 2024.\nBrian D. Griffith, Jenny Lazarus, Jake McGue, Santhoshi Krishnan, Michael I. D’Angelica, Jinru Shia, Irina Dobrosotskaya, Jaiqi Shi, Jacob Edwards, Arvind Rao, and et al. Unique characteristics of the tumor immune microenvironment in young patients with metastatic colorectal cancer. Frontiers in Immunology, volume 14, Dec 2023\nAlejandro Francisco-Cruz, Pedro Rocha, Alexandre Reuben, Santhoshi Krishnan, Priyam Das, Runzhe Chen, Kelly Quek, Jun Li, Edwin R. Parra, Luisa M. Solis, and et al. Analysis of immune intratumor heterogeneity highlights immunoregulatory and coinhibitory lymphocytes as hallmarks\nof recurrence in stage i non–small cell lung cancer. Modern Pathology, volume 36, page 100028, 2023\nSanthoshi N Krishnan , Souptik Barua, Timothy L Frankel, and Arvind Rao. Towards the characterization of the tumor microenvironment through dictionary learning-based interpretable classification of multiplexed immunofluorescence images. Physics in Medicine & Biology,\nvolume 68, page 014002, 2022.\nSanthoshi Krishnan* , Shariq Mohammed*, Timothy Frankel, and Arvind Rao. Gawrdenmap: A quantitative framework to study the local variation in cell-cell interactions in pancreatic disease subtypes. Scientific Reports, 2022.\nAngel Qin, Fatima Lima, Samantha Bell, Gregory P. Kalemkerian, Bryan J. Schneider, Nithya Ramnath, Madelyn Lew, Santhoshi Krishnan, Shariq Mohammed, Arvind Rao, and et al. Cellular engagement and interaction in the tumor microenvironment predict non-response to pd-1/pd-l1 inhibitors in metastatic non-small cell lung cancer. Scientific Reports, volume 12, 2022.\nMayank Baranwal, Santhoshi Krishnan, Morgan Oneka, Timothy Frankel, and Arvind Rao. Cgat: Cell graph attention network for grading of pancreatic disease histology images. Frontiers in Immunology, volume 12, 2021.\nOmar A. Saldarriaga, Benjamin Freiberg, Santhoshi Krishnan, Arvind Rao, Jared Burks, Adam L. Booth, Bradley Dye, Netanya Utay, Monique Ferguson, Abdellah Akil, and et al. Multispectral imaging enables characterization of intrahepatic macrophages in patients with chronic liver disease. Hepatology Communications, volume 4, page 708–723, 2020.\nOlivia D. Lara, Santhoshi Krishnan, Zhihui Wang, Sara Corvigno, Yanping Zhong, Yasmin Lyons, Robert Dood, Wei Hu, Lisha Qi, Jinsong Liu, and et al. Tumor core biopsies adequately represent immune microenvironment of high-grade serous carcinoma. Scientific Reports, volume 9, 2019.\nC.R. Parvathy*, Meghna Hukeri*, Santhoshi Krishnan*, Anburajan Mariamicheal, and Oinam Robita Chanu. Study of changes in surface temperature of facial region due to mobile phone radiation. 2015 International Conference on Innovations in Information, Embedded and Communication Systems (ICIIECS), 2015."
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Publications and Presentations",
+    "section": "",
+    "text": "Omar A. Saldarriaga, Timothy G. Wanninger, Esteban Arroyave, Joseph Gosnell, Santhoshi Krishnan, Morgan Oneka, Daniel Bao, Daniel E. Millian, Michael L. Kueht, Akshata Moghe, and et al. Heterogeneity in intrahepatic macrophage populations and druggable target expression in patients with steatotic liver disease-related fibrosis. JHEP Reports, volume 6, page 100958, Jan 2024.\nBrian D. Griffith, Jenny Lazarus, Jake McGue, Santhoshi Krishnan, Michael I. D’Angelica, Jinru Shia, Irina Dobrosotskaya, Jaiqi Shi, Jacob Edwards, Arvind Rao, and et al. Unique characteristics of the tumor immune microenvironment in young patients with metastatic colorectal cancer. Frontiers in Immunology, volume 14, Dec 2023\nAlejandro Francisco-Cruz, Pedro Rocha, Alexandre Reuben, Santhoshi Krishnan, Priyam Das, Runzhe Chen, Kelly Quek, Jun Li, Edwin R. Parra, Luisa M. Solis, and et al. Analysis of immune intratumor heterogeneity highlights immunoregulatory and coinhibitory lymphocytes as hallmarks\nof recurrence in stage i non–small cell lung cancer. Modern Pathology, volume 36, page 100028, 2023\nSanthoshi N Krishnan , Souptik Barua, Timothy L Frankel, and Arvind Rao. Towards the characterization of the tumor microenvironment through dictionary learning-based interpretable classification of multiplexed immunofluorescence images. Physics in Medicine & Biology,\nvolume 68, page 014002, 2022.\nSanthoshi Krishnan* , Shariq Mohammed*, Timothy Frankel, and Arvind Rao. Gawrdenmap: A quantitative framework to study the local variation in cell-cell interactions in pancreatic disease subtypes. Scientific Reports, 2022.\nAngel Qin, Fatima Lima, Samantha Bell, Gregory P. Kalemkerian, Bryan J. Schneider, Nithya Ramnath, Madelyn Lew, Santhoshi Krishnan, Shariq Mohammed, Arvind Rao, and et al. Cellular engagement and interaction in the tumor microenvironment predict non-response to pd-1/pd-l1 inhibitors in metastatic non-small cell lung cancer. Scientific Reports, volume 12, 2022.\nMayank Baranwal, Santhoshi Krishnan, Morgan Oneka, Timothy Frankel, and Arvind Rao. Cgat: Cell graph attention network for grading of pancreatic disease histology images. Frontiers in Immunology, volume 12, 2021.\nOmar A. Saldarriaga, Benjamin Freiberg, Santhoshi Krishnan, Arvind Rao, Jared Burks, Adam L. Booth, Bradley Dye, Netanya Utay, Monique Ferguson, Abdellah Akil, and et al. Multispectral imaging enables characterization of intrahepatic macrophages in patients with chronic liver disease. Hepatology Communications, volume 4, page 708–723, 2020.\nOlivia D. Lara, Santhoshi Krishnan, Zhihui Wang, Sara Corvigno, Yanping Zhong, Yasmin Lyons, Robert Dood, Wei Hu, Lisha Qi, Jinsong Liu, and et al. Tumor core biopsies adequately represent immune microenvironment of high-grade serous carcinoma. Scientific Reports, volume 9, 2019.\nC.R. Parvathy*, Meghna Hukeri*, Santhoshi Krishnan*, Anburajan Mariamicheal, and Oinam Robita Chanu. Study of changes in surface temperature of facial region due to mobile phone radiation. 2015 International Conference on Innovations in Information, Embedded and Communication Systems (ICIIECS), 2015."
+  },
+  {
+    "objectID": "about.html#oral-presentations",
+    "href": "about.html#oral-presentations",
+    "title": "Publications and Presentations",
+    "section": "Oral Presentations:",
+    "text": "Oral Presentations:"
+  },
+  {
+    "objectID": "about.html#poster-presentations",
+    "href": "about.html#poster-presentations",
+    "title": "Publications and Presentations",
+    "section": "Poster Presentations:",
+    "text": "Poster Presentations:"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Santhoshi N Krishnan",
     "section": "",
-    "text": "I am currently a Postdoctoral Research Fellow in the department of Computational Medicine and Bioinformatics at the University of Michigan. My research entails developing statistical and machine learning-based models for the characterization of the disease microenvironment, with a special focus on the tumor-immune microenvironment(TIME).\n## Education\nRice University | Houston, TX PhD in Electrical and Computer Engineering | Aug 2011 - July 2023\nRice University | Houston, TX MBE in Bioengineering | Aug 2015 - December 2016\nSRM University | Chennai, India BTech in Biomedical Engineering | Aug 2011 - May 2015"
+    "text": "I am currently a Postdoctoral Research Fellow in the department of Computational Medicine and Bioinformatics at the University of Michigan. My research entails developing statistical and machine learning-based models for the characterization of the disease microenvironment, with a special focus on the tumor-immune microenvironment(TIME)."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Santhoshi N Krishnan",
+    "section": "Education",
+    "text": "Education\nRice University | Houston, TX\nPhD in Electrical and Computer Engineering | August 2011 - July 2023\nRice University | Houston, TX\nMBE in Bioengineering | August 2015 - December 2016\nSRM University | Chennai, India\nBTech in Biomedical Engineering | August 2011 - May 2015"
   },
   {
     "objectID": "index.html#experience",

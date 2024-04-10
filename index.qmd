@@ -17,16 +17,16 @@ about:
 
 I am currently a Postdoctoral Research Fellow in the department of Computational Medicine and Bioinformatics at the University of Michigan. My research entails developing statistical and machine learning-based models for the characterization of the disease microenvironment, with a special focus on the tumor-immune microenvironment(TIME).
 
-\## Education
+## Education
 
-Rice University \| Houston, TX
-PhD in Electrical and Computer Engineering \| Aug 2011 - July 2023
+| Rice University \| Houston, TX 
+| PhD in Electrical and Computer Engineering \| August 2011 - July 2023
 
-Rice University \| Houston, TX
-MBE in Bioengineering \| Aug 2015 - December 2016
+| Rice University \| Houston, TX 
+| MBE in Bioengineering \| August 2015 - December 2016
 
-SRM University \| Chennai, India
-BTech in Biomedical Engineering \| Aug 2011 - May 2015
+| SRM University \| Chennai, India 
+| BTech in Biomedical Engineering \| August 2011 - May 2015
 
 ## Experience
 
@@ -36,5 +36,5 @@ University of Michigan \| Visiting Graduate Researcher \| January 2019 - August 
 
 Bristol Myers Squibb \| Intern-Information and Predictive Sciences \| May 2022 - August 2022
 
-```{}
+```         
 ```
