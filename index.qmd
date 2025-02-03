@@ -15,7 +15,7 @@ about:
       href: mailto:sankris@umich.edu
 ---
 
-I am currently a Postdoctoral Research Fellow in the department of Computational Medicine and Bioinformatics at the University of Michigan. My research entails developing statistical and machine learning-based models for the characterization of the disease microenvironment, with a special focus on the tumor-immune microenvironment(TIME).
+I am currently a Postdoctoral Research Fellow in the department of Computational Medicine and Bioinformatics at the University of Michigan. My research entails developing statistical and machine learning-based models for the characterization of the disease microenvironment, with a special focus on the tumor-immune microenvironment(TIME).\\
 
 My long-terms goals are to work on problems that have a positive real-world impact, with a focus of tackling problems in the healthcare domain. I am also passionate about understanding the impact of developed CDSS on the overall clinical workflow, and aim to develop frameworks that address the "need" rather than the "wants" in the healthcare domain.
 

@@ -1,3 +1,27 @@
 ---
 title: "Research Overview"
 ---
+
+### The Proximogram: A network-based multi-omics approach to capture heterogeneity in tissue microenvironment.
+
+[Link to paper](https://www.sciencedirect.com/science/article/pii/S0010482524011673)
+
+```{r, echo=FALSE}
+# Load necessary library
+library(knitr)
+
+# Insert the image
+include_graphics("proximogram.jpg")
+```
+
+### The Gawrdenmap: A spatial mapping framework to capture variation in cellular heterogeneity
+
+[Link to paper](https://www.nature.com/articles/s41598-022-06602-z)
+
+![](images/clipboard-550483135.png)
+
+### Discriminant Feature-based Dictionary Learning for obtaining unique signatures from imaging data:
+
+[Link to paper](https://iopscience.iop.org/article/10.1088/1361-6560/aca86a/meta)
+
+![](images/SummaryFigVer2.png)
