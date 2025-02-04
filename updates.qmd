@@ -1,0 +1,11 @@
+---
+title: "Updates and Ponderings"
+---
+
+### Our Spatial Review is Out!
+
+Very excited to have our monumental review on Spatial Omics out! Thank you [Julienne Carstens](https://www.linkedin.com/in/julienne-carstens-4819a224/) and [Jared K. Burks](https://www.linkedin.com/in/jared-k-burks-8894ba13/) for inviting me to be a part of this monumental undertaking- especially Julie for seeing this through to the end! And thank you to the rest of the co-authors for their contributions as well. I contributed heavily on the downstream analysis and results section of the paper, including (what I believe to be) a very useful table on what spatial analysis methods one needs to pick based on their computational limitations and biological question under consideration.
+
+Link to the paper [here](https://doi.org/10.1038/s43586-024-00330-6).
+
+![](images/clipboard-1456014690.png)

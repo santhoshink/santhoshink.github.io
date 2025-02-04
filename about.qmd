@@ -46,6 +46,9 @@ title: "Publications and Presentations"
 ## Poster Presentations:
 
 1.  Santhoshi Krishnan, Sunjong Ji, Ahmed M. Elhossiny, Achyutha Rao, Timothy L. Frankel, and Arvind Rao. The Proximogram: A network-based multi-omics approach to capture tissue differences with single-cell and spatial profiling. In DATA Fall 2024 Industry Advisory Board Meeting, 25 September 2024.
+
 2.  Santhoshi Krishnan, Shariq Mohhammed, Timothy L. Frankel, and Arvind Rao. Gawrdenmap: A spatially-informed framework to quantify heterogeneity in inter-cellular interactions. In 30th Conference for Intelligent Systems for Molecular Biology(ISMB),10-14 July, 2022.
+
 3.  Santhoshi Krishnan, Morgan Oneka, Emily Belille, Katie Zarins, Johnathan McHugh, Jeremy M.G. Taylor, Maureen Sartor, Laura Rozek, and Arvind Rao. A quantitative framework to characterize tumor immune cell spatial interactions in head and neck squamous cell carcinoma. In Keystone eSymposia on Advances in Cancer Immunotherapy-2020, 17-19 August 2020. Keystone Symposia, 2020.
+
 4.  Laura Rozek, Santhoshi Krishnan, Katie Zarins, Jonathan McHugh, Jeremy M.G. Taylor, Emily Belille, Steven B Chinn, Gregory T Wolf, Arvind Rao, and Maureen Sartor. Synthesizing tumor infiltrating lymphocyte patterns with genomic measurements for head and neck cancer survival. In 2020 Precision Health Virtual Symposium,23-24 September, 2020.
